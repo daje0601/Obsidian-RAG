@@ -206,4 +206,4 @@ To auto-download images from clipped articles:
 
 ## License
 
-MIT
+Apache-2.0

@@ -205,4 +205,4 @@ obsidian-RAG/
 
 ## 라이선스
 
-MIT
+Apache-2.0
